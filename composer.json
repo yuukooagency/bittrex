@@ -1,0 +1,7 @@
+{
+    "name": "yuukooagency/bittrex",
+    "description": "PHP wrapper for Bittrex API",
+    "require": {
+        "php": "5.* || 7.*"
+    }
+}
